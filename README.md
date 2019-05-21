@@ -1,2 +1,2 @@
 # rainbowfish
-Rainbow fish, native to Eastern Zanzabar are delicious.
+Rainbow fish, a violent, shapeshifting predator from nubunine.
