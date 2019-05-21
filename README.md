@@ -6,4 +6,4 @@ Once upon a time, in a fishtank far far away...
 
 `yeet`
 
-<iframe src="https://giphy.com/embed/12VxXULpBsrxXG" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fish-movie-disney-12VxXULpBsrxXG">via GIPHY</a></p>
+![finding nemo gif](https://media.giphy.com/media/12VxXULpBsrxXG/giphy.gif)
