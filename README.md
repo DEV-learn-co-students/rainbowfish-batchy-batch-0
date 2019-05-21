@@ -1,2 +1,2 @@
 # rainbowfish
-# just keep swimming again or become sushi
+Rainbow fish, native to Eastern Zanzabar are delicious.
