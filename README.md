@@ -17,7 +17,3 @@ How did the fish find the World Wide Web? In a Net.
 [BABY SHARK](https://youtu.be/XqZsoesa55w)
 
 This is fishy.....
-
-Logs not logging
-
-Commit message
